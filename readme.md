@@ -2,10 +2,11 @@
 
 Program ini adalah tugas Abdurrasyid Rafi Pane untuk Sistem Informasi Akuntansi
 ![image](https://github.com/AbdurrasyidRafiPane/Sistem-Informasi-Akuntansi-penggajian-dosen/assets/151999781/af5f8953-4ece-4ab0-8dda-cbf9bfba63f8)
-![image](https://github.com/AbdurrasyidRafiPane/Sistem-Informasi-Akuntansi-penggajian-dosen/assets/151999781/54af27ae-e013-432d-8497-926583b9afb7)
 
 
 
+
+![image](https://github.com/AbdurrasyidRafiPane/Sistem-Informasi-Akuntansi-penggajian-dosen/assets/151999781/0b4259e3-8a09-48e1-bbc0-d98dbb8c4397)
 
 User dan password untuk login
 User : admin02
