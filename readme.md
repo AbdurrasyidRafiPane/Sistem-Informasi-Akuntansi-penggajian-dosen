@@ -1,22 +1,11 @@
 # Gaji-rev(Sistem Penggajian Dosen)
 
-Program ini adalah tugas akhir PKL Hafiz Caniago yang boleh anda download untuk referensi atau pembelajaran.
+Program ini adalah tugas Abdurrasyid Rafi Pane untuk Sistem Informasi Akuntansi
+![image](https://github.com/AbdurrasyidRafiPane/Sistem-Informasi-Akuntansi-penggajian-dosen/assets/151999781/af5f8953-4ece-4ab0-8dda-cbf9bfba63f8)
 
-> Program ini gratis dan sudah termasuk dengan databasenya.
 
----
-### Feature
-- [x] Login with 2 Role Auth
-- [x] CRUD Data Dosen
-- [x] CRUD Data Gaji
-- [x] CRUD Data Penggajian
-- [x] CRUD Admin
-- [x] Print Report
-- [x] See the Salary in this Month (Dosen)
 
----
-### Demo Online
-http://sigadosen.000webhostapp.com/
+User dan password untuk login
 User : admin02
 Password : admin123
 
