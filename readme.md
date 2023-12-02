@@ -2,6 +2,7 @@
 
 Program ini adalah tugas Abdurrasyid Rafi Pane untuk Sistem Informasi Akuntansi
 ![image](https://github.com/AbdurrasyidRafiPane/Sistem-Informasi-Akuntansi-penggajian-dosen/assets/151999781/af5f8953-4ece-4ab0-8dda-cbf9bfba63f8)
+![Uploading image.png…]()
 
 
 
