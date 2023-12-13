@@ -1,6 +1,9 @@
 # Gaji-rev(Sistem Penggajian Dosen)
 
 Program ini adalah tugas Abdurrasyid Rafi Pane untuk Sistem Informasi Akuntansi
+Nama	: Abdurrasyid Rafi Pane
+Nim		: 12030122120049
+Kelas	: Sistem Informasi Akuntansi - A
 ![image](https://github.com/AbdurrasyidRafiPane/Sistem-Informasi-Akuntansi-penggajian-dosen/assets/151999781/af5f8953-4ece-4ab0-8dda-cbf9bfba63f8)
 
 
