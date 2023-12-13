@@ -23,7 +23,7 @@ Password : admin123
 Cara penggunaan web
 1.	Buka git hub dan salin kode git hub
 ![image](https://github.com/AbdurrasyidRafiPane/Sistem-Informasi-Akuntansi-penggajian-dosen/assets/151999781/6842a5d3-2f45-4a05-8c63-97ce01e0bb53)
-2.	Buat folder dan klik git bush here
+2.	Buat folder dan klik git bash here dan masukkan git clone 
 ![image](https://github.com/AbdurrasyidRafiPane/Sistem-Informasi-Akuntansi-penggajian-dosen/assets/151999781/da8597e2-a7fa-469e-b00b-f63fe6b4b796)
 3.buka file kemudian klik file db file dan pilih file db_gaji_rev dan pilih database `db_gaji_rev`dan copypaste
 ![image](https://github.com/AbdurrasyidRafiPane/Sistem-Informasi-Akuntansi-penggajian-dosen/assets/151999781/91c36098-dffc-475d-bcc5-100021ac09c2)
